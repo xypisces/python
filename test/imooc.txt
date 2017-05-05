@@ -1,4 +1,0 @@
-imooc python
-imooc js
-imooc html
-imoo css
